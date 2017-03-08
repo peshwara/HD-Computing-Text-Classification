@@ -1,0 +1,3 @@
+Best combination of N & D found so far is N=7, D= 10k
+P5 code used for procesing different files from training data set of 52 classes and it was found that the all-term testdata itself produced the highest accuaracy
+most common terms among monograms, digrams and trigrams like a, i, the, were removed from testfiles as part of preprocessing buit it did not yeild any significant increase in efficiency

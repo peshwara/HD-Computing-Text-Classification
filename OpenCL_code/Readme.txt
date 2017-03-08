@@ -1,0 +1,2 @@
+Program was written using openCL for multiply and accumulate operation.
+code was executed succcessfully for smaller file of about 10% of R_8 training file but runtime exception was thrown for bigger files hence the same code was not used for subsequent steps of the project.
